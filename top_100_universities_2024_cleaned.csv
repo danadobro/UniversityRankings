@@ -1,0 +1,101 @@
+,rank,name,country,number_of_students,student_per_staff,intl_students_percentage,female_male_ratio,isr_percentage,female_ratio,male_ratio,year
+0,1,University of Oxford,United Kingdom,21750,10.9,42,49 : 51,23%,49.0,51.0,2024-01-01
+1,2,Stanford University,United States,14517,6.4,23,47 : 53,22%,47.0,53.0,2024-01-01
+2,3,Massachusetts Institute of Technology,United States,11085,8.0,33,41 : 59,40%,41.0,59.0,2024-01-01
+3,4,Harvard University,United States,20050,9.0,25,51 : 49,12%,51.0,49.0,2024-01-01
+4,5,University of Cambridge,United Kingdom,20565,11.5,38,48 : 52,27%,48.0,52.0,2024-01-01
+5,6,Princeton University,United States,7753,7.3,23,47 : 53,43%,47.0,53.0,2024-01-01
+6,7,California Institute of Technology,United States,2240,6.1,33,37 : 63,49%,37.0,63.0,2024-01-01
+7,8,Imperial College London,United Kingdom,20275,11.8,61,42 : 58,28%,42.0,58.0,2024-01-01
+8,9,"University of California, Berkeley",United States,39991,17.9,22,52 : 48,36%,52.0,48.0,2024-01-01
+9,10,Yale University,United States,11924,5.2,21,51 : 49,13%,51.0,49.0,2024-01-01
+10,11,ETH Zurich,Switzerland,22619,15.4,43,33 : 67,43%,33.0,67.0,2024-01-01
+11,12,Tsinghua University,China,38518,11.2,10,n/a,42%,,,2024-01-01
+12,13,The University of Chicago,United States,15792,6.2,36,47 : 53,29%,47.0,53.0,2024-01-01
+13,14,Peking University,China,33064,10.9,14,n/a,33%,,,2024-01-01
+14,15,Johns Hopkins University,United States,15772,4.1,28,56 : 44,15%,56.0,44.0,2024-01-01
+15,16,University of Pennsylvania,United States,21312,6.2,22,54 : 46,13%,54.0,46.0,2024-01-01
+16,17,Columbia University,United States,25914,5.2,35,n/a,23%,,,2024-01-01
+17,18,"University of California, Los Angeles",United States,42634,9.6,15,56 : 44,21%,56.0,44.0,2024-01-01
+18,19,National University of Singapore,Singapore,33334,20.0,24,49 : 51,28%,49.0,51.0,2024-01-01
+19,20,Cornell University,United States,23620,10.0,24,51 : 49,25%,51.0,49.0,2024-01-01
+20,21,University of Toronto,Canada,79282,25.8,27,56 : 44,17%,56.0,44.0,2024-01-01
+21,22,UCL,United Kingdom,41110,11.3,61,59 : 41,21%,59.0,41.0,2024-01-01
+22,23,University of Michigan-Ann Arbor,United States,45783,8.1,16,51 : 49,22%,51.0,49.0,2024-01-01
+23,24,Carnegie Mellon University,United States,13562,11.9,44,44 : 56,43%,44.0,56.0,2024-01-01
+24,25,University of Washington,United States,49486,10.1,16,56 : 44,20%,56.0,44.0,2024-01-01
+25,26,Duke University,United States,15527,3.9,18,52 : 48,15%,52.0,48.0,2024-01-01
+26,27,New York University,United States,48461,11.8,42,58 : 42,21%,58.0,42.0,2024-01-01
+27,28,Northwestern University,United States,18894,13.1,18,52 : 48,18%,52.0,48.0,2024-01-01
+28,29,The University of Tokyo,Japan,26345,10.3,15,n/a,35%,,,2024-01-01
+29,30,University of Edinburgh,United Kingdom,33940,11.5,46,61 : 39,24%,61.0,39.0,2024-01-01
+30,30,Technical University of Munich,Germany,35506,44.4,39,37 : 63,36%,37.0,63.0,2024-01-01
+31,32,"Nanyang Technological University, Singapore",Singapore,25895,16.7,27,49 : 51,38%,49.0,51.0,2024-01-01
+32,33,École Polytechnique Fédérale de Lausanne,Switzerland,12543,13.5,64,30 : 70,44%,30.0,70.0,2024-01-01
+33,34,"University of California, San Diego",United States,40596,12.0,19,45 : 55,21%,45.0,55.0,2024-01-01
+34,35,University of Hong Kong,Hong Kong,18103,18.3,43,55 : 45,36%,55.0,45.0,2024-01-01
+35,36,Georgia Institute of Technology,United States,32079,28.0,29,34 : 66,43%,34.0,66.0,2024-01-01
+36,37,University of Melbourne,Australia,51307,25.1,47,58 : 42,18%,58.0,42.0,2024-01-01
+37,38,King’s College London,United Kingdom,32835,13.9,53,63 : 37,12%,63.0,37.0,2024-01-01
+38,38,LMU Munich,Germany,34622,33.5,18,62 : 38,21%,62.0,38.0,2024-01-01
+39,40,Paris Sciences et Lettres – PSL Research University Paris,France,16120,15.0,22,51 : 49,30%,51.0,49.0,2024-01-01
+40,41,University of British Columbia,Canada,58987,19.4,34,55 : 45,21%,55.0,45.0,2024-01-01
+41,42,University of Illinois at Urbana-Champaign,United States,50250,19.6,23,51 : 49,35%,51.0,49.0,2024-01-01
+42,43,Shanghai Jiao Tong University,China,38472,12.6,9,37 : 63,31%,37.0,63.0,2024-01-01
+43,44,Fudan University,China,38101,12.6,9,52 : 48,24%,52.0,48.0,2024-01-01
+44,45,KU Leuven,Belgium,49435,37.3,19,52 : 48,23%,52.0,48.0,2024-01-01
+45,46,London School of Economics and Political Science,United Kingdom,11945,12.6,72,56 : 44,15%,56.0,44.0,2024-01-01
+46,47,Universität Heidelberg,Germany,19315,13.3,20,55 : 45,20%,55.0,45.0,2024-01-01
+47,48,Delft University of Technology,Netherlands,21262,15.9,30,31 : 69,50%,31.0,69.0,2024-01-01
+48,49,McGill University,Canada,30821,11.9,29,61 : 39,22%,61.0,39.0,2024-01-01
+49,50,Karolinska Institute,Sweden,8085,9.9,27,70 : 30,4%,70.0,30.0,2024-01-01
+50,51,University of Manchester,United Kingdom,40725,15.6,45,56 : 44,26%,56.0,44.0,2024-01-01
+51,52,University of Texas at Austin,United States,48558,16.4,8,55 : 45,36%,55.0,45.0,2024-01-01
+52,53,The Chinese University of Hong Kong,Hong Kong,18290,18.8,25,n/a,25%,,,2024-01-01
+53,54,Monash University,Australia,58460,43.1,38,56 : 44,21%,56.0,44.0,2024-01-01
+54,55,Kyoto University,Japan,21817,9.0,11,25 : 75,32%,25.0,75.0,2024-01-01
+55,55,Zhejiang University,China,48169,12.0,16,n/a,32%,,,2024-01-01
+56,57,University of Science and Technology of China,China,20252,8.1,5,n/a,43%,,,2024-01-01
+57,58,Université Paris-Saclay,France,31662,13.0,24,50 : 50,35%,50.0,50.0,2024-01-01
+58,59,"University of California, Davis",United States,37926,13.3,18,60 : 40,22%,60.0,40.0,2024-01-01
+59,60,The University of Sydney,Australia,57414,23.1,51,58 : 42,18%,58.0,42.0,2024-01-01
+60,61,University of Amsterdam,Netherlands,28649,13.2,36,60 : 40,16%,60.0,40.0,2024-01-01
+61,62,Seoul National University,South Korea,28620,16.1,13,n/a,26%,,,2024-01-01
+62,63,University of Wisconsin-Madison,United States,41209,9.9,13,n/a,24%,,,2024-01-01
+63,64,Brown University,United States,9781,10.3,19,n/a,17%,,,2024-01-01
+64,64,The Hong Kong University of Science and Technology,Hong Kong,9794,19.9,30,n/a,44%,,,2024-01-01
+65,64,Wageningen University & Research,Netherlands,15899,18.1,28,54 : 46,28%,54.0,46.0,2024-01-01
+66,67,Australian National University,Australia,17293,15.1,48,52 : 48,29%,52.0,48.0,2024-01-01
+67,68,Washington University in St Louis,United States,13825,7.3,22,52 : 48,12%,52.0,48.0,2024-01-01
+68,69,"University of California, Santa Barbara",United States,25540,27.5,18,54 : 46,39%,54.0,46.0,2024-01-01
+69,70,The University of Queensland,Australia,42847,39.1,42,55 : 45,21%,55.0,45.0,2024-01-01
+70,71,Institut Polytechnique de Paris,France,6073,6.8,42,25 : 75,47%,25.0,75.0,2024-01-01
+71,72,University of North Carolina at Chapel Hill,United States,30782,7.7,8,60 : 40,12%,60.0,40.0,2024-01-01
+72,73,Nanjing University,China,36711,16.7,8,54 : 46,41%,54.0,46.0,2024-01-01
+73,74,University of Southern California,United States,44083,14.2,24,49 : 51,20%,49.0,51.0,2024-01-01
+74,75,Sorbonne University,France,41527,14.5,22,60 : 40,32%,60.0,40.0,2024-01-01
+75,76,Yonsei University (Seoul campus),South Korea,18961,13.9,17,49 : 51,21%,49.0,51.0,2024-01-01
+76,77,Leiden University,Netherlands,35072,19.3,21,60 : 40,24%,60.0,40.0,2024-01-01
+77,78,Boston University,United States,26677,10.8,29,58 : 42,16%,58.0,42.0,2024-01-01
+78,79,University of Groningen,Netherlands,31942,28.8,29,53 : 47,17%,53.0,47.0,2024-01-01
+79,80,University of Zurich,Switzerland,25608,14.7,24,58 : 42,19%,58.0,42.0,2024-01-01
+80,81,University of Bristol,United Kingdom,27335,14.8,31,55 : 45,27%,55.0,45.0,2024-01-01
+81,82,City University of Hong Kong,Hong Kong,9076,13.2,67,54 : 46,39%,54.0,46.0,2024-01-01
+82,83,Korea Advanced Institute of Science and Technology (KAIST),South Korea,10130,10.7,8,21 : 79,40%,21.0,79.0,2024-01-01
+83,84,UNSW Sydney,Australia,47044,36.6,40,47 : 53,26%,47.0,53.0,2024-01-01
+84,85,University of Minnesota,United States,59556,11.8,9,55 : 45,22%,55.0,45.0,2024-01-01
+85,86,Purdue University West Lafayette,United States,42633,18.3,17,44 : 56,37%,44.0,56.0,2024-01-01
+86,87,University of Glasgow,United Kingdom,32270,14.4,43,59 : 41,23%,59.0,41.0,2024-01-01
+87,87,The Hong Kong Polytechnic University,Hong Kong,20034,30.6,30,51 : 49,38%,51.0,49.0,2024-01-01
+88,87,Humboldt University of Berlin,Germany,34761,54.5,18,n/a,23%,,,2024-01-01
+89,90,RWTH Aachen University,Germany,34914,43.3,29,34 : 66,39%,34.0,66.0,2024-01-01
+90,91,University of Bonn,Germany,26290,44.5,17,57 : 43,26%,57.0,43.0,2024-01-01
+91,92,"University of California, Irvine",United States,35675,16.2,26,53 : 47,25%,53.0,47.0,2024-01-01
+92,92,Vanderbilt University,United States,12971,3.9,17,55 : 45,16%,55.0,45.0,2024-01-01
+93,94,Charité - Universitätsmedizin Berlin,Germany,8868,17.5,21,65 : 35,6%,65.0,35.0,2024-01-01
+94,95,,,32680,9.6,37,50 : 50,39%,50.0,50.0,2024-01-01
+95,95,University of Tübingen,Germany,21632,27.1,14,59 : 41,21%,59.0,41.0,2024-01-01
+96,97,KTH Royal Institute of Technology,Sweden,13269,15.9,26,34 : 66,46%,34.0,66.0,2024-01-01
+97,97,University of Southampton,United Kingdom,19920,13.0,35,51 : 49,32%,51.0,49.0,2024-01-01
+98,99,Erasmus University Rotterdam,Netherlands,33874,36.0,25,54 : 46,10%,54.0,46.0,2024-01-01
+99,99,Ohio State University (Main campus),United States,55538,11.4,11,51 : 49,22%,51.0,49.0,2024-01-01
